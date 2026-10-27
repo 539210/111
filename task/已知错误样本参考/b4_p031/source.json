@@ -1,0 +1,14 @@
+{
+  "sample_id": "b4_p031",
+  "book": "2025王道计算机网络.pdf",
+  "source": "E:\\BaiduNetdiskDownload\\王道\\2025王道计算机网络.pdf",
+  "source_sha256": "ae7aaeccabb0d7f63024575833456059b86d9047a6ab9f6826d57cc973db841d",
+  "pdf_page": 31,
+  "input": "C:\\Users\\asus\\Desktop\\杂项\\王道PDF提取任务_20261027\\成果\\样本输入\\b4_p031.png",
+  "render_dpi": 300,
+  "page_size_points": [
+    541.0,
+    754.0
+  ],
+  "old_ocr_chars": 1301
+}

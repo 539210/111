@@ -1,0 +1,14 @@
+{
+  "sample_id": "b1_p009",
+  "book": "2025王道操作系统(OCR).pdf",
+  "source": "E:\\BaiduNetdiskDownload\\王道\\2025王道操作系统(OCR).pdf",
+  "source_sha256": "48ca4ffb5e8affc8cc79f14bd9e362efd54640925f6dde07c2707fd89323a7e1",
+  "pdf_page": 9,
+  "input": "C:\\Users\\asus\\Desktop\\杂项\\王道PDF提取任务_20261027\\成果\\样本输入\\b1_p009.png",
+  "render_dpi": 300,
+  "page_size_points": [
+    541.0,
+    754.0
+  ],
+  "old_ocr_chars": 1795
+}

@@ -1,0 +1,37 @@
+{"type": "equation_inline", "latex": "n^{2}", "id": "b2_p021_formula_001", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "O(n^{2})", "id": "b2_p021_formula_002", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "O(n\\log_{2}n)", "id": "b2_p021_formula_003", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "O(\\log_{2}n)", "id": "b2_p021_formula_004", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "\\underline{i} = \\underline{i} \\cdot 2", "id": "b2_p021_formula_005", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "t, 2^{t} \\leqslant n", "id": "b2_p021_formula_006", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "t \\leq \\log_{2}n", "id": "b2_p021_formula_007", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "T(n) = O(\\log_2 n)", "id": "b2_p021_formula_008", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "\\mathrm{i}=\\mathrm{i} \\times 2", "id": "b2_p021_formula_009", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "2^{l} = n", "id": "b2_p021_formula_010", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "t = \\log_{2}n", "id": "b2_p021_formula_011", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "T(n) = O(\\log_2 n)", "id": "b2_p021_formula_012", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "\\mathbf{i} + +", "id": "b2_p021_formula_013", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "t \\times t \\times t \\leq n", "id": "b2_p021_formula_014", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "t^{3} \\leqslant n,", "id": "b2_p021_formula_015", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "t \\leq \\sqrt[3]{n}", "id": "b2_p021_formula_016", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "T(n) = O(\\sqrt[3]{n})", "id": "b2_p021_formula_017", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation", "latex": "T(n)=\\sum_{i = 2}^{n - 1}\\sum_{j = 1}^{i - 1}1=\\sum_{i = 2}^{n - 1}i-1=(n-2)(n-1)/2=O(n^2)", "id": "b2_p021_formula_018", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "O(n^{2})", "id": "b2_p021_formula_019", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation", "latex": "\\sum_{i = 1}^{n}\\sum_{j = 1}^{2i}1 = \\sum_{i = 1}^{n}2i = 2\\sum_{i = 1}^{n}i = n(n + 1)", "id": "b2_p021_formula_020", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "\\scriptstyle ( { \\tt n } = = 1 )   { \\tt r e t u r n 1 }   ;", "id": "b2_p021_formula_021", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "t,2^{t} \\leq n", "id": "b2_p021_formula_022", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "t \\leq \\log_{2}n", "id": "b2_p021_formula_023", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "T = \\log_{2}n \\times 1", "id": "b2_p021_formula_024", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "O ( \\log _ { 2 } n )", "id": "b2_p021_formula_025", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "table_equation", "latex": "\\boxed { \\triangle / 2 }", "id": "b2_p021_formula_026", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "table_equation", "latex": "\\boxed { \\Omega / 4 }", "id": "b2_p021_formula_027", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "table_equation", "latex": "\\mathrm{i}\\mathrm{f}(\\mathrm{n}==1)", "id": "b2_p021_formula_028", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "table_equation", "latex": "\\cdots", "id": "b2_p021_formula_029", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "table_equation", "latex": "\\mathrm{i}\\mathrm{f}(\\mathrm{n}==1)", "id": "b2_p021_formula_030", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "x = 2 \\times x", "id": "b2_p021_formula_031", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "2^{t + 1} < n / 2", "id": "b2_p021_formula_032", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "t < \\log_{2}(n/2) - 1 = \\log_{2}n - 2", "id": "b2_p021_formula_033", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "T(n) = O(\\log_2 n)", "id": "b2_p021_formula_034", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "\\mathtt { i f ( n < = 1 ) \\quad r e t u r n \\quad l ; }", "id": "b2_p021_formula_035", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "T = 1 + 1 + \\cdots + 1 = n", "id": "b2_p021_formula_036", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}
+{"type": "equation_inline", "latex": "O ( n )", "id": "b2_p021_formula_037", "sample": "b2_p021", "source_page": 21, "review_status": "unverified"}

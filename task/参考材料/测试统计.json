@@ -1,0 +1,145 @@
+{
+  "samples": [
+    {
+      "sample": "b1_p009",
+      "seconds": 6.911,
+      "formula_entries": 0,
+      "tables": 0,
+      "images": 0,
+      "markdown_chars": 830
+    },
+    {
+      "sample": "b1_p020",
+      "seconds": 2.429,
+      "formula_entries": 0,
+      "tables": 0,
+      "images": 1,
+      "markdown_chars": 804
+    },
+    {
+      "sample": "b1_p021",
+      "seconds": 2.807,
+      "formula_entries": 0,
+      "tables": 0,
+      "images": 0,
+      "markdown_chars": 1183
+    },
+    {
+      "sample": "b1_p092",
+      "seconds": 12.301,
+      "formula_entries": 10,
+      "tables": 4,
+      "images": 4,
+      "markdown_chars": 1364
+    },
+    {
+      "sample": "b2_p009",
+      "seconds": 2.903,
+      "formula_entries": 0,
+      "tables": 0,
+      "images": 0,
+      "markdown_chars": 846
+    },
+    {
+      "sample": "b2_p020",
+      "seconds": 44.842,
+      "formula_entries": 19,
+      "tables": 0,
+      "images": 0,
+      "markdown_chars": 3199
+    },
+    {
+      "sample": "b2_p021",
+      "seconds": 23.824,
+      "formula_entries": 37,
+      "tables": 1,
+      "images": 3,
+      "markdown_chars": 1932
+    },
+    {
+      "sample": "b2_p105",
+      "seconds": 6.343,
+      "formula_entries": 5,
+      "tables": 0,
+      "images": 1,
+      "markdown_chars": 1480
+    },
+    {
+      "sample": "b3_p009",
+      "seconds": 2.897,
+      "formula_entries": 0,
+      "tables": 0,
+      "images": 0,
+      "markdown_chars": 956
+    },
+    {
+      "sample": "b3_p030",
+      "seconds": 4.412,
+      "formula_entries": 3,
+      "tables": 1,
+      "images": 2,
+      "markdown_chars": 1398
+    },
+    {
+      "sample": "b3_p031",
+      "seconds": 3.737,
+      "formula_entries": 0,
+      "tables": 1,
+      "images": 1,
+      "markdown_chars": 1231
+    },
+    {
+      "sample": "b3_p087",
+      "seconds": 10.145,
+      "formula_entries": 14,
+      "tables": 2,
+      "images": 5,
+      "markdown_chars": 2205
+    },
+    {
+      "sample": "b4_p009",
+      "seconds": 2.9,
+      "formula_entries": 0,
+      "tables": 0,
+      "images": 0,
+      "markdown_chars": 876
+    },
+    {
+      "sample": "b4_p020",
+      "seconds": 3.17,
+      "formula_entries": 1,
+      "tables": 0,
+      "images": 2,
+      "markdown_chars": 1172
+    },
+    {
+      "sample": "b4_p021",
+      "seconds": 3.741,
+      "formula_entries": 2,
+      "tables": 0,
+      "images": 0,
+      "markdown_chars": 1220
+    },
+    {
+      "sample": "b4_p031",
+      "seconds": 3.019,
+      "formula_entries": 0,
+      "tables": 0,
+      "images": 1,
+      "markdown_chars": 1207
+    }
+  ],
+  "successful_pages": 16,
+  "failed_samples": [],
+  "total_seconds": 136.381,
+  "median_seconds": 3.739,
+  "min_seconds": 2.429,
+  "max_seconds": 44.842,
+  "mean_seconds": 8.5238125,
+  "formula_entries": 91,
+  "tables": 9,
+  "assets": 20,
+  "broken_references": [],
+  "mathml_conversion_errors": [],
+  "note": "formula_entries includes inline and table formulas; all are unverified. No accuracy estimate."
+}

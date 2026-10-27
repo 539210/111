@@ -1,0 +1,194 @@
+[
+  {
+    "sample_id": "b1_p009",
+    "book": "2025王道操作系统(OCR).pdf",
+    "source_sha256": "48ca4ffb5e8affc8cc79f14bd9e362efd54640925f6dde07c2707fd89323a7e1",
+    "pdf_page": 9,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1795
+  },
+  {
+    "sample_id": "b1_p020",
+    "book": "2025王道操作系统(OCR).pdf",
+    "source_sha256": "48ca4ffb5e8affc8cc79f14bd9e362efd54640925f6dde07c2707fd89323a7e1",
+    "pdf_page": 20,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1026
+  },
+  {
+    "sample_id": "b1_p021",
+    "book": "2025王道操作系统(OCR).pdf",
+    "source_sha256": "48ca4ffb5e8affc8cc79f14bd9e362efd54640925f6dde07c2707fd89323a7e1",
+    "pdf_page": 21,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1213
+  },
+  {
+    "sample_id": "b1_p092",
+    "book": "2025王道操作系统(OCR).pdf",
+    "source_sha256": "48ca4ffb5e8affc8cc79f14bd9e362efd54640925f6dde07c2707fd89323a7e1",
+    "pdf_page": 92,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1024
+  },
+  {
+    "sample_id": "b2_p009",
+    "book": "2025王道数据结构(OCR)11.pdf",
+    "source_sha256": "a66d8dd7c5ae9188daa7f35bcee79b677c9369278fa4bae9a8d71f476a364d30",
+    "pdf_page": 9,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1786
+  },
+  {
+    "sample_id": "b2_p020",
+    "book": "2025王道数据结构(OCR)11.pdf",
+    "source_sha256": "a66d8dd7c5ae9188daa7f35bcee79b677c9369278fa4bae9a8d71f476a364d30",
+    "pdf_page": 20,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 919
+  },
+  {
+    "sample_id": "b2_p021",
+    "book": "2025王道数据结构(OCR)11.pdf",
+    "source_sha256": "a66d8dd7c5ae9188daa7f35bcee79b677c9369278fa4bae9a8d71f476a364d30",
+    "pdf_page": 21,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1124
+  },
+  {
+    "sample_id": "b2_p105",
+    "book": "2025王道数据结构(OCR)11.pdf",
+    "source_sha256": "a66d8dd7c5ae9188daa7f35bcee79b677c9369278fa4bae9a8d71f476a364d30",
+    "pdf_page": 105,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1016
+  },
+  {
+    "sample_id": "b3_p009",
+    "book": "2025王道计算机组成原理(OCR).pdf",
+    "source_sha256": "4253135dab015934f462a199760a26f5538f188c819f7ed9522b95e032fafe17",
+    "pdf_page": 9,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1862
+  },
+  {
+    "sample_id": "b3_p030",
+    "book": "2025王道计算机组成原理(OCR).pdf",
+    "source_sha256": "4253135dab015934f462a199760a26f5538f188c819f7ed9522b95e032fafe17",
+    "pdf_page": 30,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1333
+  },
+  {
+    "sample_id": "b3_p031",
+    "book": "2025王道计算机组成原理(OCR).pdf",
+    "source_sha256": "4253135dab015934f462a199760a26f5538f188c819f7ed9522b95e032fafe17",
+    "pdf_page": 31,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1196
+  },
+  {
+    "sample_id": "b3_p087",
+    "book": "2025王道计算机组成原理(OCR).pdf",
+    "source_sha256": "4253135dab015934f462a199760a26f5538f188c819f7ed9522b95e032fafe17",
+    "pdf_page": 87,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1500
+  },
+  {
+    "sample_id": "b4_p009",
+    "book": "2025王道计算机网络.pdf",
+    "source_sha256": "ae7aaeccabb0d7f63024575833456059b86d9047a6ab9f6826d57cc973db841d",
+    "pdf_page": 9,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1831
+  },
+  {
+    "sample_id": "b4_p020",
+    "book": "2025王道计算机网络.pdf",
+    "source_sha256": "ae7aaeccabb0d7f63024575833456059b86d9047a6ab9f6826d57cc973db841d",
+    "pdf_page": 20,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1145
+  },
+  {
+    "sample_id": "b4_p021",
+    "book": "2025王道计算机网络.pdf",
+    "source_sha256": "ae7aaeccabb0d7f63024575833456059b86d9047a6ab9f6826d57cc973db841d",
+    "pdf_page": 21,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1220
+  },
+  {
+    "sample_id": "b4_p031",
+    "book": "2025王道计算机网络.pdf",
+    "source_sha256": "ae7aaeccabb0d7f63024575833456059b86d9047a6ab9f6826d57cc973db841d",
+    "pdf_page": 31,
+    "render_dpi": 300,
+    "page_size_points": [
+      541.0,
+      754.0
+    ],
+    "old_ocr_chars": 1301
+  }
+]

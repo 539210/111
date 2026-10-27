@@ -1,0 +1,14 @@
+{
+  "sample_id": "b2_p020",
+  "book": "2025王道数据结构(OCR)11.pdf",
+  "source": "E:\\BaiduNetdiskDownload\\王道\\2025王道数据结构(OCR)11.pdf",
+  "source_sha256": "a66d8dd7c5ae9188daa7f35bcee79b677c9369278fa4bae9a8d71f476a364d30",
+  "pdf_page": 20,
+  "input": "C:\\Users\\asus\\Desktop\\杂项\\王道PDF提取任务_20261027\\成果\\样本输入\\b2_p020.png",
+  "render_dpi": 300,
+  "page_size_points": [
+    541.0,
+    754.0
+  ],
+  "old_ocr_chars": 919
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "book_id": "b1",
+    "filename": "2025王道操作系统(OCR).pdf",
+    "pages": 366,
+    "bytes": 252384648,
+    "sha256": "48ca4ffb5e8affc8cc79f14bd9e362efd54640925f6dde07c2707fd89323a7e1"
+  },
+  {
+    "book_id": "b2",
+    "filename": "2025王道数据结构(OCR)11.pdf",
+    "pages": 418,
+    "bytes": 231811933,
+    "sha256": "a66d8dd7c5ae9188daa7f35bcee79b677c9369278fa4bae9a8d71f476a364d30"
+  },
+  {
+    "book_id": "b3",
+    "filename": "2025王道计算机组成原理(OCR).pdf",
+    "pages": 346,
+    "bytes": 192860699,
+    "sha256": "4253135dab015934f462a199760a26f5538f188c819f7ed9522b95e032fafe17"
+  },
+  {
+    "book_id": "b4",
+    "filename": "2025王道计算机网络.pdf",
+    "pages": 309,
+    "bytes": 176718622,
+    "sha256": "ae7aaeccabb0d7f63024575833456059b86d9047a6ab9f6826d57cc973db841d"
+  }
+]

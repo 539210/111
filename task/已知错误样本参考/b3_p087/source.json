@@ -1,0 +1,14 @@
+{
+  "sample_id": "b3_p087",
+  "book": "2025王道计算机组成原理(OCR).pdf",
+  "source": "E:\\BaiduNetdiskDownload\\王道\\2025王道计算机组成原理(OCR).pdf",
+  "source_sha256": "4253135dab015934f462a199760a26f5538f188c819f7ed9522b95e032fafe17",
+  "pdf_page": 87,
+  "input": "C:\\Users\\asus\\Desktop\\杂项\\王道PDF提取任务_20261027\\成果\\样本输入\\b3_p087.png",
+  "render_dpi": 300,
+  "page_size_points": [
+    541.0,
+    754.0
+  ],
+  "old_ocr_chars": 1500
+}
